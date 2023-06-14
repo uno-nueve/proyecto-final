@@ -7,7 +7,7 @@ import React from 'react';
 const App = () => {
     return (
       <div>
-        <h1>Proyecto Final</h1>
+        <h1>Proyecto Final Reacts JS</h1>
       </div>
     );
 };
